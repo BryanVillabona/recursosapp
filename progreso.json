@@ -1,0 +1,871 @@
+[
+  {
+    "_id": {
+      "$oid": "faaff72433ef42d693c58cc5"
+    },
+    "id_usuario": {
+      "$oid": "4b46db56308d23e61e3c77d6"
+    },
+    "id_recurso": {
+      "$oid": "b14c3e6d4b1b96130c11d6c3"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-06-15T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "1977203afb0641d280317616"
+    },
+    "id_usuario": {
+      "$oid": "44f51a10ba00cdf687201a41"
+    },
+    "id_recurso": {
+      "$oid": "b14c3e6d4b1b96130c11d6c3"
+    },
+    "id_estado": {
+      "$oid": "9a80c6b73f2c9d4f2a8f0b11"
+    },
+    "fecha_inicio": "2025-07-16T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "9be61bd309a94a0f8c3b0f16"
+    },
+    "id_usuario": {
+      "$oid": "159eae513ca5a3ec0de91ecb"
+    },
+    "id_recurso": {
+      "$oid": "0ec4b6f081104f15f3922f78"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-03-19T00:00:00Z",
+    "nota": 3,
+    "rese\u00f1a": "Me gust\u00f3 mucho la trama.",
+    "fecha_fin": "2025-03-28T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "5cbb5de3d1384377a9994a0d"
+    },
+    "id_usuario": {
+      "$oid": "8d1b034bc98c0631d359c049"
+    },
+    "id_recurso": {
+      "$oid": "3d7f3aa56496f57714237e09"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-06-10T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "474e693b9eb04925bdf11b50"
+    },
+    "id_usuario": {
+      "$oid": "6890b6cbe13ba99a684dd6a2"
+    },
+    "id_recurso": {
+      "$oid": "0360a1e3fabced7ae3cccb3e"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-02-07T00:00:00Z",
+    "nota": 4,
+    "rese\u00f1a": "Visualmente impresionante.",
+    "fecha_fin": "2025-02-08T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "11b8ee55423946e68769f8d0"
+    },
+    "id_usuario": {
+      "$oid": "9246ae8e7ec35f8a7e81d76b"
+    },
+    "id_recurso": {
+      "$oid": "fa17ead98eb36c13d374e5c6"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-03-25T00:00:00Z",
+    "nota": 5,
+    "rese\u00f1a": "No fue lo que esperaba, pero estuvo bien.",
+    "fecha_fin": "2025-04-03T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "52410ae6a5864485a26a6ef6"
+    },
+    "id_usuario": {
+      "$oid": "0c31b9353c490f0e66f7a2d1"
+    },
+    "id_recurso": {
+      "$oid": "3d7f3aa56496f57714237e09"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-06-08T00:00:00Z",
+    "nota": 5,
+    "rese\u00f1a": "Me gust\u00f3 mucho la trama.",
+    "fecha_fin": "2025-06-18T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "a9ea0d64301f4115863b7d04"
+    },
+    "id_usuario": {
+      "$oid": "5146f440d1307d39b0ca56d0"
+    },
+    "id_recurso": {
+      "$oid": "fa17ead98eb36c13d374e5c6"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-04-09T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "41a22c78e2ef408186520c6e"
+    },
+    "id_usuario": {
+      "$oid": "5e7ce26f9fecdb64d06c6c4e"
+    },
+    "id_recurso": {
+      "$oid": "7bb7f9452c42875a70f9a683"
+    },
+    "id_estado": {
+      "$oid": "9a80c6b73f2c9d4f2a8f0b11"
+    },
+    "fecha_inicio": "2025-04-17T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "d2ca28e5cb3e47c8baef3468"
+    },
+    "id_usuario": {
+      "$oid": "c2b7f1fe16c5096c0cd1cf1b"
+    },
+    "id_recurso": {
+      "$oid": "7cebdc30bd22eb96181b9865"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-06-02T00:00:00Z",
+    "nota": 3,
+    "rese\u00f1a": "Recomendada solo si te gusta el g\u00e9nero.",
+    "fecha_fin": "2025-06-04T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "2503fadf1dc740bbacea9271"
+    },
+    "id_usuario": {
+      "$oid": "24965e423cdb7ca596858569"
+    },
+    "id_recurso": {
+      "$oid": "5d3e9cbe423281ca0197677d"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-01-13T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "dd3d25432db74633acaf3284"
+    },
+    "id_usuario": {
+      "$oid": "8d9c8f4910bebb37ff4773f9"
+    },
+    "id_recurso": {
+      "$oid": "9dfb65f0d321467427227d0f"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-06-02T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "e96216c60085435198e9426b"
+    },
+    "id_usuario": {
+      "$oid": "fd9e147ac79dea8697bbbe49"
+    },
+    "id_recurso": {
+      "$oid": "f71000482a071fb5367658ec"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-06-25T00:00:00Z",
+    "nota": 5,
+    "rese\u00f1a": "Un poco lenta al principio, pero mejora.",
+    "fecha_fin": "2025-07-05T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "b33d5a91538b40b0a6a8b809"
+    },
+    "id_usuario": {
+      "$oid": "5146f440d1307d39b0ca56d0"
+    },
+    "id_recurso": {
+      "$oid": "7cebdc30bd22eb96181b9865"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-06-16T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "a5f92d3bb85b4b63928ce39a"
+    },
+    "id_usuario": {
+      "$oid": "b9ec721cb3b8cb20151f344a"
+    },
+    "id_recurso": {
+      "$oid": "2f8a92a8028dfa38b4490f65"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-03-22T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "87f650c30cbf45aeba7c1db9"
+    },
+    "id_usuario": {
+      "$oid": "e92082ec4dc9c8916ca34657"
+    },
+    "id_recurso": {
+      "$oid": "d83c4f189eee7e0219394079"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-07-06T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "7702335ba86340c58eb23f68"
+    },
+    "id_usuario": {
+      "$oid": "5e7ce26f9fecdb64d06c6c4e"
+    },
+    "id_recurso": {
+      "$oid": "daa6d85116a53ea9f622ec5f"
+    },
+    "id_estado": {
+      "$oid": "9a80c6b73f2c9d4f2a8f0b11"
+    },
+    "fecha_inicio": "2025-03-07T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "21a3a8fada1a4652b39cd78d"
+    },
+    "id_usuario": {
+      "$oid": "596ee7b1dc20cca06f42db83"
+    },
+    "id_recurso": {
+      "$oid": "ed43086085002181084519d4"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-06-02T00:00:00Z",
+    "nota": 2,
+    "rese\u00f1a": "No fue lo que esperaba, pero estuvo bien.",
+    "fecha_fin": "2025-06-17T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "0a3a576ba0b144a28bb3b1ad"
+    },
+    "id_usuario": {
+      "$oid": "d78f089f6ae9ca29cf67f37f"
+    },
+    "id_recurso": {
+      "$oid": "0e7a4882ef988fb4f25e2b56"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-03-22T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "f2200c0c435f45ed84877a4c"
+    },
+    "id_usuario": {
+      "$oid": "a78f8a30d57516eb535ea0a5"
+    },
+    "id_recurso": {
+      "$oid": "9f0b6305fa4bb225305e920c"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-05-02T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "e27cadd1918f42adb98d389f"
+    },
+    "id_usuario": {
+      "$oid": "8d9c8f4910bebb37ff4773f9"
+    },
+    "id_recurso": {
+      "$oid": "6890ca31d5838823b9699cce"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-01-28T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "271bc48ec38b45deb2f1d6f5"
+    },
+    "id_usuario": {
+      "$oid": "a781e13c1d9509892da9f629"
+    },
+    "id_recurso": {
+      "$oid": "6890ca31d5838823b9699cce"
+    },
+    "id_estado": {
+      "$oid": "9a80c6b73f2c9d4f2a8f0b11"
+    },
+    "fecha_inicio": "2025-06-18T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "d84557c8f2a343abb4b95123"
+    },
+    "id_usuario": {
+      "$oid": "fd27dd0d805f39d79655840b"
+    },
+    "id_recurso": {
+      "$oid": "1d762af8a223c017c0fa9d5f"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-06-10T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "ecbdd986c54445f9bfcb0de8"
+    },
+    "id_usuario": {
+      "$oid": "5badc40aacb6a9c0e024de28"
+    },
+    "id_recurso": {
+      "$oid": "6db4cf39a99dff81c1aa2e50"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-04-21T00:00:00Z",
+    "nota": 3,
+    "rese\u00f1a": "Un poco lenta al principio, pero mejora.",
+    "fecha_fin": "2025-05-06T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "f1459276ab034e849ea60407"
+    },
+    "id_usuario": {
+      "$oid": "a78f8a30d57516eb535ea0a5"
+    },
+    "id_recurso": {
+      "$oid": "1d762af8a223c017c0fa9d5f"
+    },
+    "id_estado": {
+      "$oid": "9a80c6b73f2c9d4f2a8f0b11"
+    },
+    "fecha_inicio": "2025-06-27T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "8bfe0445c8f0434e9bceb3af"
+    },
+    "id_usuario": {
+      "$oid": "425368b139da94230af7c9f6"
+    },
+    "id_recurso": {
+      "$oid": "4e9bc764a815a7ce4d92c206"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-01-24T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "0d1c65aad3f34cad820825f7"
+    },
+    "id_usuario": {
+      "$oid": "6968ab8a74a8ec991e21b12d"
+    },
+    "id_recurso": {
+      "$oid": "53eb10e3b09c439ed75f609d"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-01-09T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "fe2e2da802dc476c9d0b2050"
+    },
+    "id_usuario": {
+      "$oid": "c2b7f1fe16c5096c0cd1cf1b"
+    },
+    "id_recurso": {
+      "$oid": "c97b9b3a5797fcceb4d69372"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-02-13T00:00:00Z",
+    "nota": 3,
+    "rese\u00f1a": "No me atrap\u00f3.",
+    "fecha_fin": "2025-02-15T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "75216a402ffa4c81ad46e5ec"
+    },
+    "id_usuario": {
+      "$oid": "01c53d6a3d1806f3f94f961b"
+    },
+    "id_recurso": {
+      "$oid": "cefc2c1ce752eaa8330f811e"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-04-03T00:00:00Z",
+    "nota": 4,
+    "rese\u00f1a": "Entretenida y con buenos personajes.",
+    "fecha_fin": "2025-04-12T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "e242a6549bcb4395ab0dbafb"
+    },
+    "id_usuario": {
+      "$oid": "0c31b9353c490f0e66f7a2d1"
+    },
+    "id_recurso": {
+      "$oid": "aa3cf228e097c6fe4231f4f5"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-02-07T00:00:00Z",
+    "nota": 1,
+    "rese\u00f1a": "Un poco lenta al principio, pero mejora.",
+    "fecha_fin": "2025-02-11T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "c57b07a824934769b7c872d2"
+    },
+    "id_usuario": {
+      "$oid": "fc77a631cbb5971c7c41c811"
+    },
+    "id_recurso": {
+      "$oid": "d132ab8e5373c8d4a13a6d79"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-03-03T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "b47900acea074158a219a2a4"
+    },
+    "id_usuario": {
+      "$oid": "f199bd94494db882126d696d"
+    },
+    "id_recurso": {
+      "$oid": "6890ca31d5838823b9699cce"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-05-01T00:00:00Z",
+    "nota": 5,
+    "rese\u00f1a": "Recomendada solo si te gusta el g\u00e9nero.",
+    "fecha_fin": "2025-05-11T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "4b7bd84046ee4d67af7f4a61"
+    },
+    "id_usuario": {
+      "$oid": "c2b7f1fe16c5096c0cd1cf1b"
+    },
+    "id_recurso": {
+      "$oid": "2a677cca6f6fa69c0124825b"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-07-19T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "459246a8cca64d9faee43a67"
+    },
+    "id_usuario": {
+      "$oid": "864a33a4e042fb3d83dae124"
+    },
+    "id_recurso": {
+      "$oid": "e75a2a873f2d1b88dd4d0a1d"
+    },
+    "id_estado": {
+      "$oid": "9a80c6b73f2c9d4f2a8f0b11"
+    },
+    "fecha_inicio": "2025-05-15T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "c1c398aa694548b2a0f87c3f"
+    },
+    "id_usuario": {
+      "$oid": "44f51a10ba00cdf687201a41"
+    },
+    "id_recurso": {
+      "$oid": "e7036c149542dc78b116658a"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-01-09T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "b5b00c10b88344e3aad03e75"
+    },
+    "id_usuario": {
+      "$oid": "8d1b034bc98c0631d359c049"
+    },
+    "id_recurso": {
+      "$oid": "6237fdda67e6a3fb7e9dbb31"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-04-09T00:00:00Z",
+    "nota": 2,
+    "rese\u00f1a": "Muy buena, la recomiendo.",
+    "fecha_fin": "2025-04-21T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "a81bf094b7ac41b7952ad0ec"
+    },
+    "id_usuario": {
+      "$oid": "cad2cf6dd69bbfa3724fbd5a"
+    },
+    "id_recurso": {
+      "$oid": "6890ca31d5838823b9699cce"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-07-18T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "ba7ae066ed6044bf8a398df1"
+    },
+    "id_usuario": {
+      "$oid": "596ee7b1dc20cca06f42db83"
+    },
+    "id_recurso": {
+      "$oid": "6db4cf39a99dff81c1aa2e50"
+    },
+    "id_estado": {
+      "$oid": "9a80c6b73f2c9d4f2a8f0b11"
+    },
+    "fecha_inicio": "2025-07-17T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "af17abbda70a4c1aab6a77fd"
+    },
+    "id_usuario": {
+      "$oid": "8569d5b83ffde464544f1923"
+    },
+    "id_recurso": {
+      "$oid": "2f4776c81e6604886b45f3dd"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-06-19T00:00:00Z",
+    "nota": 5,
+    "rese\u00f1a": "Recomendada solo si te gusta el g\u00e9nero.",
+    "fecha_fin": "2025-06-24T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "db370dac013242e49a49b714"
+    },
+    "id_usuario": {
+      "$oid": "8c7d55dd5405651fda2321eb"
+    },
+    "id_recurso": {
+      "$oid": "d0f80b99514afe58a21593d5"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-02-10T00:00:00Z",
+    "nota": 3,
+    "rese\u00f1a": "Una historia muy conmovedora.",
+    "fecha_fin": "2025-03-02T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "85fff76d71d344cd945a0916"
+    },
+    "id_usuario": {
+      "$oid": "b3bcf36bc60f36ea63e6cf00"
+    },
+    "id_recurso": {
+      "$oid": "6db4cf39a99dff81c1aa2e50"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-06-16T00:00:00Z",
+    "nota": 5,
+    "rese\u00f1a": "Me gust\u00f3 mucho la trama.",
+    "fecha_fin": "2025-06-27T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "9cacb2c55af542b19f51e7ea"
+    },
+    "id_usuario": {
+      "$oid": "a1036733fd7078b93c67f8c2"
+    },
+    "id_recurso": {
+      "$oid": "d0f80b99514afe58a21593d5"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-03-14T00:00:00Z",
+    "nota": 5,
+    "rese\u00f1a": "Un poco lenta al principio, pero mejora.",
+    "fecha_fin": "2025-03-31T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "a3654a4250c7429c96ddaa29"
+    },
+    "id_usuario": {
+      "$oid": "5e7ce26f9fecdb64d06c6c4e"
+    },
+    "id_recurso": {
+      "$oid": "0360a1e3fabced7ae3cccb3e"
+    },
+    "id_estado": {
+      "$oid": "9a80c6b73f2c9d4f2a8f0b11"
+    },
+    "fecha_inicio": "2025-05-21T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "818f98ef7c4f45d8995e5d29"
+    },
+    "id_usuario": {
+      "$oid": "24965e423cdb7ca596858569"
+    },
+    "id_recurso": {
+      "$oid": "9a2effeb7a29fff87f5e766e"
+    },
+    "id_estado": {
+      "$oid": "9a80c6b73f2c9d4f2a8f0b11"
+    },
+    "fecha_inicio": "2025-01-16T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "88b804ea58174ae99c86cb70"
+    },
+    "id_usuario": {
+      "$oid": "cb9a16fa277d6e5ec72d4239"
+    },
+    "id_recurso": {
+      "$oid": "6db4cf39a99dff81c1aa2e50"
+    },
+    "id_estado": {
+      "$oid": "9a80c6b73f2c9d4f2a8f0b11"
+    },
+    "fecha_inicio": "2025-05-28T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "ee3ebfe932b54d7f872f66f5"
+    },
+    "id_usuario": {
+      "$oid": "1ef6ded19e6cebc6182f54c4"
+    },
+    "id_recurso": {
+      "$oid": "9dfb65f0d321467427227d0f"
+    },
+    "id_estado": {
+      "$oid": "9a80c6b73f2c9d4f2a8f0b11"
+    },
+    "fecha_inicio": "2025-02-20T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "be6810aa03884e01bd11d537"
+    },
+    "id_usuario": {
+      "$oid": "66c69154d77c8b6ee88f712c"
+    },
+    "id_recurso": {
+      "$oid": "5d3e9cbe423281ca0197677d"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-03-23T00:00:00Z",
+    "nota": 3,
+    "rese\u00f1a": "Recomendada solo si te gusta el g\u00e9nero.",
+    "fecha_fin": "2025-03-24T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "1696424d32f74ba69c402c6d"
+    },
+    "id_usuario": {
+      "$oid": "288bc87dd59efcdf6bd3a58f"
+    },
+    "id_recurso": {
+      "$oid": "8f3e5a21e1f68555496e2e9e"
+    },
+    "id_estado": {
+      "$oid": "d184b7a13d4f6c9ea12d9c82"
+    },
+    "fecha_inicio": "2025-06-14T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  },
+  {
+    "_id": {
+      "$oid": "97dae73f987c4594957120fe"
+    },
+    "id_usuario": {
+      "$oid": "4b676e9b91bba2a8d7ab5b15"
+    },
+    "id_recurso": {
+      "$oid": "de575e422b902c6420138b8b"
+    },
+    "id_estado": {
+      "$oid": "7b3e9ca18fbc7e2c3a5df6d4"
+    },
+    "fecha_inicio": "2025-02-16T00:00:00Z",
+    "nota": 5,
+    "rese\u00f1a": "Visualmente impresionante.",
+    "fecha_fin": "2025-02-28T00:00:00Z"
+  },
+  {
+    "_id": {
+      "$oid": "c3198f74ae734560b5d70fff"
+    },
+    "id_usuario": {
+      "$oid": "fd27dd0d805f39d79655840b"
+    },
+    "id_recurso": {
+      "$oid": "f71000482a071fb5367658ec"
+    },
+    "id_estado": {
+      "$oid": "9a80c6b73f2c9d4f2a8f0b11"
+    },
+    "fecha_inicio": "2025-07-10T00:00:00Z",
+    "nota": null,
+    "rese\u00f1a": ""
+  }
+]
