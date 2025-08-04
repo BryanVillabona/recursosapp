@@ -1,0 +1,62 @@
+[
+    {
+        "_id": {
+            "$oid": "a1c3d87fae3c55c6b9a1cd67"
+        },
+        "nombre": "Netflix"
+    },
+    {
+        "_id": {
+            "$oid": "83f98d72e1a64426a7d8be55"
+        },
+        "nombre": "HBO"
+    },
+    {
+        "_id": {
+            "$oid": "f9ce3741cafd174281ea748c"
+        },
+        "nombre": "Amazon Prime"
+    },
+    {
+        "_id": {
+            "$oid": "2ab0cf3ecda994c3a1c70d89"
+        },
+        "nombre": "Disney+"
+    },
+    {
+        "_id": {
+            "$oid": "ec78531e1bfb9cc5d9bfa68d"
+        },
+        "nombre": "Apple TV"
+    },
+    {
+        "_id": {
+            "$oid": "a94f1c19e01b0270ae9b6890"
+        },
+        "nombre": "Star+"
+    },
+    {
+        "_id": {
+            "$oid": "e01cf750b417bb8886a4b330"
+        },
+        "nombre": "Crunchyroll"
+    },
+    {
+        "_id": {
+            "$oid": "1b679c10516b1b68a0c45177"
+        },
+        "nombre": "YouTube"
+    },
+    {
+        "_id": {
+            "$oid": "bd3764dfed4e1dc1e645a59a"
+        },
+        "nombre": "Paramount+"
+    },
+    {
+        "_id": {
+            "$oid": "24d7ac7ee6a46f8852c6a7a4"
+        },
+        "nombre": "Hulu"
+    }
+]
