@@ -64,7 +64,7 @@ Este repositorio contiene **la estructura y datos necesarios para poblar una bas
 
 ├──  📄  progreso.json  ←  Documento  de  ejemplo  para  `progreso`.
 
-├──  📄  progreso_completado.json←  Datos  completos  para  la  colección  `progreso` (principal).
+├──  📄  progreso.json←  Datos  completos  para  la  colección  `progreso` (principal).
 
 ```
 
@@ -84,7 +84,7 @@ Este repositorio contiene **la estructura y datos necesarios para poblar una bas
 | `plataformas` | `plataformas.json` | Plataforma en la que se accede al recurso. |
 | `recursos` | `recursos.json` | Recursos registrados por los usuarios. **(colección principal)** |
 | `usuarios` | `usuarios.json` | Usuarios registrados. **(colección principal)** |
-| `progreso` | `progreso_completado.json` | Registro del avance de los usuarios. **(colección principal)** |
+| `progreso` | `progreso.json` | Registro del avance de los usuarios. **(colección principal)** |
 
 ---
 
