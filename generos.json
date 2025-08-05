@@ -29,3 +29,34 @@
         },
         "nombre": "Ciencia ficción"
     },
+       {
+        "_id": {
+            "$oid": "de3a0c7e0125fd478ab7a4e9"
+        },
+        "nombre": "Fantasía"
+    },
+    {
+        "_id": {
+            "$oid": "93a6e1d1373f5cda0fd0c92f"
+        },
+        "nombre": "Drama"
+    },
+    {
+        "_id": {
+            "$oid": "7c8a34189d58f6c1a1459b60"
+        },
+        "nombre": "Comedia"
+    },
+    {
+        "_id": {
+            "$oid": "69f8b05bcfea203c70d3e4b7"
+        },
+        "nombre": "Documental"
+    },
+    {
+        "_id": {
+            "$oid": "f7d2c9ee8e5bdccaa90cfe10"
+        },
+        "nombre": "Suspenso"
+    }
+]
