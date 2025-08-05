@@ -1,0 +1,20 @@
+[
+    {
+        "_id": {
+            "$oid": "e7d4ab1d92d3cda4b6a4c76f"
+        },
+        "nombre": "Serie"
+    },
+    {
+        "_id": {
+            "$oid": "9b2cd08f3e75b2da14fc097a"
+        },
+        "nombre": "Libro"
+    },
+    {
+        "_id": {
+            "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+        },
+        "nombre": "Película"
+    }
+]
