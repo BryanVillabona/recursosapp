@@ -1,0 +1,15 @@
+[
+  {
+    "_id": { "$oid": "9a80c6b73f2c9d4f2a8f0b11" },
+    "nombre": "pendiente"
+  },
+  {
+    "_id": { "$oid": "d184b7a13d4f6c9ea12d9c82" },
+    "nombre": "en progreso"
+  },
+  {
+    "_id": { "$oid": "7b3e9ca18fbc7e2c3a5df6d4" },
+    "nombre": "terminado"
+  }
+]
+
