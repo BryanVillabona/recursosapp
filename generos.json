@@ -1,0 +1,31 @@
+[
+    {
+        "_id": {
+            "$oid": "db83f2a0b1c8e9df47e14cb2"
+        },
+        "nombre": "Acción"
+    },
+    {
+        "_id": {
+            "$oid": "ccf9e3f7bd7eabbbcd7b91a2"
+        },
+        "nombre": "Anime"
+    },
+    {
+        "_id": {
+            "$oid": "a3f6bd8d5ac74cbb3ab1f80e"
+        },
+        "nombre": "Romance"
+    },
+    {
+        "_id": {
+            "$oid": "b8db3fa31a5e2f7cc8ec9901"
+        },
+        "nombre": "Terror"
+    },
+    {
+        "_id": {
+            "$oid": "47f87f41dddb0c8f1fc0d75b"
+        },
+        "nombre": "Ciencia ficción"
+    },
