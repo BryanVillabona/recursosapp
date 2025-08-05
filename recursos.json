@@ -329,3 +329,474 @@
     },
     "id_genero": {
       "$oid": "7c8a34189d58f6c1a1459b60"
+        },
+    "anio": 2012,
+    "id_plataforma": {
+      "$oid": "bd3764dfed4e1dc1e645a59a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b4b3835cf8ca1a827a0faf76"
+    },
+    "titulo": "Batallas en el universo",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "de3a0c7e0125fd478ab7a4e9"
+    },
+    "anio": 1991,
+    "id_plataforma": {
+      "$oid": "24d7ac7ee6a46f8852c6a7a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "158cc43201abf5833c41e24a"
+    },
+    "titulo": "Luz sobre la galaxia",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "69f8b05bcfea203c70d3e4b7"
+    },
+    "anio": 1994,
+    "id_plataforma": {
+      "$oid": "24d7ac7ee6a46f8852c6a7a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2af7d0ce39b786532ff6530e"
+    },
+    "titulo": "El último el tiempo",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "f7d2c9ee8e5bdccaa90cfe10"
+    },
+    "anio": 2014,
+    "id_plataforma": {
+      "$oid": "24d7ac7ee6a46f8852c6a7a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9dfb65f0d321467427227d0f"
+    },
+    "titulo": "Crónicas de el silencio",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "de3a0c7e0125fd478ab7a4e9"
+    },
+    "anio": 2003,
+    "id_plataforma": {
+      "$oid": "f9ce3741cafd174281ea748c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "006e11dec154d7dcfdf8b6cd"
+    },
+    "titulo": "La leyenda de el bosque",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "de3a0c7e0125fd478ab7a4e9"
+    },
+    "anio": 2014,
+    "id_plataforma": {
+      "$oid": "ec78531e1bfb9cc5d9bfa68d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e29e7bb7b635c69eff538c8d"
+    },
+    "titulo": "Historias de el universo",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "47f87f41dddb0c8f1fc0d75b"
+    },
+    "anio": 1994,
+    "id_plataforma": {
+      "$oid": "1b679c10516b1b68a0c45177"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0e7a4882ef988fb4f25e2b56"
+    },
+    "titulo": "Luz sobre el tiempo",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "a3f6bd8d5ac74cbb3ab1f80e"
+    },
+    "anio": 2007,
+    "id_plataforma": {
+      "$oid": "e01cf750b417bb8886a4b330"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2a677cca6f6fa69c0124825b"
+    },
+    "titulo": "El último la eternidad",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "69f8b05bcfea203c70d3e4b7"
+    },
+    "anio": 2014,
+    "id_plataforma": {
+      "$oid": "a94f1c19e01b0270ae9b6890"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e7036c149542dc78b116658a"
+    },
+    "titulo": "Crónicas de la eternidad",
+    "id_formato": {
+      "$oid": "e7d4ab1d92d3cda4b6a4c76f"
+    },
+    "id_genero": {
+      "$oid": "47f87f41dddb0c8f1fc0d75b"
+    },
+    "anio": 1991,
+    "id_plataforma": {
+      "$oid": "ec78531e1bfb9cc5d9bfa68d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6df3573606537f6aece1332f"
+    },
+    "titulo": "Perdidos en la galaxia",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "47f87f41dddb0c8f1fc0d75b"
+    },
+    "anio": 2000,
+    "id_plataforma": {
+      "$oid": "a1c3d87fae3c55c6b9a1cd67"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9571bcd5f6eff34ca639c606"
+    },
+    "titulo": "La leyenda de el silencio",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "b8db3fa31a5e2f7cc8ec9901"
+    },
+    "anio": 1993,
+    "id_plataforma": {
+      "$oid": "a1c3d87fae3c55c6b9a1cd67"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e75a2a873f2d1b88dd4d0a1d"
+    },
+    "titulo": "Crónicas de la isla",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "ccf9e3f7bd7eabbbcd7b91a2"
+    },
+    "anio": 2022,
+    "id_plataforma": {
+      "$oid": "a1c3d87fae3c55c6b9a1cd67"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "fab5b249a84871cd16e57f7b"
+    },
+    "titulo": "Viaje a la ciudad",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "93a6e1d1373f5cda0fd0c92f"
+    },
+    "anio": 1996,
+    "id_plataforma": {
+      "$oid": "e01cf750b417bb8886a4b330"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d83c4f189eee7e0219394079"
+    },
+    "titulo": "Crónicas de el silencio",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "f7d2c9ee8e5bdccaa90cfe10"
+    },
+    "anio": 2014,
+    "id_plataforma": {
+      "$oid": "24d7ac7ee6a46f8852c6a7a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "daa6d85116a53ea9f622ec5f"
+    },
+    "titulo": "El ascenso de el universo",
+    "id_formato": {
+      "$oid": "e7d4ab1d92d3cda4b6a4c76f"
+    },
+    "id_genero": {
+      "$oid": "db83f2a0b1c8e9df47e14cb2"
+    },
+    "anio": 1993,
+    "id_plataforma": {
+      "$oid": "e01cf750b417bb8886a4b330"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2369693ec2984acc00417bfe"
+    },
+    "titulo": "Luz sobre la ciudad",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "f7d2c9ee8e5bdccaa90cfe10"
+    },
+    "anio": 1994,
+    "id_plataforma": {
+      "$oid": "2ab0cf3ecda994c3a1c70d89"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "231a031fd2544adb3f5edcc1"
+    },
+    "titulo": "Batallas en la galaxia",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "f7d2c9ee8e5bdccaa90cfe10"
+    },
+    "anio": 2007,
+    "id_plataforma": {
+      "$oid": "2ab0cf3ecda994c3a1c70d89"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2f8a92a8028dfa38b4490f65"
+    },
+    "titulo": "Viaje a la eternidad",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "47f87f41dddb0c8f1fc0d75b"
+    },
+    "anio": 2009,
+    "id_plataforma": {
+      "$oid": "24d7ac7ee6a46f8852c6a7a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5d3e9cbe423281ca0197677d"
+    },
+    "titulo": "Amor en la eternidad",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "7c8a34189d58f6c1a1459b60"
+    },
+    "anio": 1991,
+    "id_plataforma": {
+      "$oid": "a94f1c19e01b0270ae9b6890"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7bb7f9452c42875a70f9a683"
+    },
+    "titulo": "La leyenda de la montaña",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "47f87f41dddb0c8f1fc0d75b"
+    },
+    "anio": 2008,
+    "id_plataforma": {
+      "$oid": "ec78531e1bfb9cc5d9bfa68d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "de575e422b902c6420138b8b"
+    },
+    "titulo": "Sombras en la eternidad",
+    "id_formato": {
+      "$oid": "e7d4ab1d92d3cda4b6a4c76f"
+    },
+    "id_genero": {
+      "$oid": "93a6e1d1373f5cda0fd0c92f"
+    },
+    "anio": 1993,
+    "id_plataforma": {
+      "$oid": "a94f1c19e01b0270ae9b6890"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "3d7f3aa56496f57714237e09"
+    },
+    "titulo": "Secretos de la oscuridad",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "7c8a34189d58f6c1a1459b60"
+    },
+    "anio": 2003,
+    "id_plataforma": {
+      "$oid": "a94f1c19e01b0270ae9b6890"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "11521e8798443d068274be14"
+    },
+    "titulo": "Amor en el futuro",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "de3a0c7e0125fd478ab7a4e9"
+    },
+    "anio": 2013,
+    "id_plataforma": {
+      "$oid": "1b679c10516b1b68a0c45177"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9f0b6305fa4bb225305e920c"
+    },
+    "titulo": "Luz sobre los mares",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "db83f2a0b1c8e9df47e14cb2"
+    },
+    "anio": 2006,
+    "id_plataforma": {
+      "$oid": "a1c3d87fae3c55c6b9a1cd67"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0360a1e3fabced7ae3cccb3e"
+    },
+    "titulo": "Amor en el abismo",
+    "id_formato": {
+      "$oid": "e7d4ab1d92d3cda4b6a4c76f"
+    },
+    "id_genero": {
+      "$oid": "a3f6bd8d5ac74cbb3ab1f80e"
+    },
+    "anio": 2006,
+    "id_plataforma": {
+      "$oid": "a1c3d87fae3c55c6b9a1cd67"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4e9bc764a815a7ce4d92c206"
+    },
+    "titulo": "El misterio de los mares",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "47f87f41dddb0c8f1fc0d75b"
+    },
+    "anio": 2002,
+    "id_plataforma": {
+      "$oid": "1b679c10516b1b68a0c45177"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "cefc2c1ce752eaa8330f811e"
+    },
+    "titulo": "Secretos de la montaña",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "7c8a34189d58f6c1a1459b60"
+    },
+    "anio": 2018,
+    "id_plataforma": {
+      "$oid": "f9ce3741cafd174281ea748c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7cebdc30bd22eb96181b9865"
+    },
+    "titulo": "Crónicas de el futuro",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "93a6e1d1373f5cda0fd0c92f"
+    },
+    "anio": 1991,
+    "id_plataforma": {
+      "$oid": "a94f1c19e01b0270ae9b6890"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f71000482a071fb5367658ec"
+    },
+    "titulo": "Batallas en la isla",
+    "id_formato": {
+      "$oid": "e7d4ab1d92d3cda4b6a4c76f"
+    },
+    "id_genero": {
+      "$oid": "ccf9e3f7bd7eabbbcd7b91a2"
+    },
+    "anio": 2013,
+    "id_plataforma": {
+      "$oid": "bd3764dfed4e1dc1e645a59a"
+    }
+  }
+]
