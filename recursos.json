@@ -1,0 +1,331 @@
+[
+  {
+    "_id": {
+      "$oid": "6890ca31d5838823b9699cce"
+    },
+    "titulo": "Harry Potter y la piedra filosofal",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "de3a0c7e0125fd478ab7a4e9"
+    },
+    "anio": 2001,
+    "id_plataforma": {
+      "$oid": "83f98d72e1a64426a7d8be55"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6db4cf39a99dff81c1aa2e50"
+    },
+    "titulo": "Luz sobre el futuro",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "7c8a34189d58f6c1a1459b60"
+    },
+    "anio": 2009,
+    "id_plataforma": {
+      "$oid": "a94f1c19e01b0270ae9b6890"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c97b9b3a5797fcceb4d69372"
+    },
+    "titulo": "Historias de los mares",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "b8db3fa31a5e2f7cc8ec9901"
+    },
+    "anio": 2011,
+    "id_plataforma": {
+      "$oid": "a1c3d87fae3c55c6b9a1cd67"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d132ab8e5373c8d4a13a6d79"
+    },
+    "titulo": "Secretos de la eternidad",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "7c8a34189d58f6c1a1459b60"
+    },
+    "anio": 2015,
+    "id_plataforma": {
+      "$oid": "83f98d72e1a64426a7d8be55"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ed43086085002181084519d4"
+    },
+    "titulo": "El misterio de la isla",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "db83f2a0b1c8e9df47e14cb2"
+    },
+    "anio": 2024,
+    "id_plataforma": {
+      "$oid": "f9ce3741cafd174281ea748c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "fa17ead98eb36c13d374e5c6"
+    },
+    "titulo": "Perdidos en la ciudad",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "93a6e1d1373f5cda0fd0c92f"
+    },
+    "anio": 1999,
+    "id_plataforma": {
+      "$oid": "e01cf750b417bb8886a4b330"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "60715f91edfc307639372ab6"
+    },
+    "titulo": "Crónicas de el pasado",
+    "id_formato": {
+      "$oid": "e7d4ab1d92d3cda4b6a4c76f"
+    },
+    "id_genero": {
+      "$oid": "db83f2a0b1c8e9df47e14cb2"
+    },
+    "anio": 2020,
+    "id_plataforma": {
+      "$oid": "ec78531e1bfb9cc5d9bfa68d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "53eb10e3b09c439ed75f609d"
+    },
+    "titulo": "Perdidos en el universo",
+    "id_formato": {
+      "$oid": "e7d4ab1d92d3cda4b6a4c76f"
+    },
+    "id_genero": {
+      "$oid": "db83f2a0b1c8e9df47e14cb2"
+    },
+    "anio": 2002,
+    "id_plataforma": {
+      "$oid": "83f98d72e1a64426a7d8be55"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d0f80b99514afe58a21593d5"
+    },
+    "titulo": "Viaje a los mares",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "b8db3fa31a5e2f7cc8ec9901"
+    },
+    "anio": 2018,
+    "id_plataforma": {
+      "$oid": "a1c3d87fae3c55c6b9a1cd67"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0ec4b6f081104f15f3922f78"
+    },
+    "titulo": "El misterio de el abismo",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "b8db3fa31a5e2f7cc8ec9901"
+    },
+    "anio": 1992,
+    "id_plataforma": {
+      "$oid": "e01cf750b417bb8886a4b330"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9a2effeb7a29fff87f5e766e"
+    },
+    "titulo": "Secretos de el universo",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "69f8b05bcfea203c70d3e4b7"
+    },
+    "anio": 2023,
+    "id_plataforma": {
+      "$oid": "e01cf750b417bb8886a4b330"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6237fdda67e6a3fb7e9dbb31"
+    },
+    "titulo": "Viaje a el pasado",
+    "id_formato": {
+      "$oid": "e7d4ab1d92d3cda4b6a4c76f"
+    },
+    "id_genero": {
+      "$oid": "b8db3fa31a5e2f7cc8ec9901"
+    },
+    "anio": 2024,
+    "id_plataforma": {
+      "$oid": "e01cf750b417bb8886a4b330"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b11630fcfb32417d61dbd916"
+    },
+    "titulo": "Sombras en la oscuridad",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "b8db3fa31a5e2f7cc8ec9901"
+    },
+    "anio": 2008,
+    "id_plataforma": {
+      "$oid": "bd3764dfed4e1dc1e645a59a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "dbf02c57f4da6b8139b69935"
+    },
+    "titulo": "Sombras en el abismo",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "47f87f41dddb0c8f1fc0d75b"
+    },
+    "anio": 2007,
+    "id_plataforma": {
+      "$oid": "24d7ac7ee6a46f8852c6a7a4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "2f4776c81e6604886b45f3dd"
+    },
+    "titulo": "Recuerdos de el tiempo",
+    "id_formato": {
+      "$oid": "e7d4ab1d92d3cda4b6a4c76f"
+    },
+    "id_genero": {
+      "$oid": "93a6e1d1373f5cda0fd0c92f"
+    },
+    "anio": 2014,
+    "id_plataforma": {
+      "$oid": "e01cf750b417bb8886a4b330"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7aceface060c33bfa4d55a7c"
+    },
+    "titulo": "El ascenso de la isla",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "b8db3fa31a5e2f7cc8ec9901"
+    },
+    "anio": 1999,
+    "id_plataforma": {
+      "$oid": "bd3764dfed4e1dc1e645a59a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "36dfcd1ff0df486d7c696f48"
+    },
+    "titulo": "Amor en el tiempo",
+    "id_formato": {
+      "$oid": "e7d4ab1d92d3cda4b6a4c76f"
+    },
+    "id_genero": {
+      "$oid": "69f8b05bcfea203c70d3e4b7"
+    },
+    "anio": 2023,
+    "id_plataforma": {
+      "$oid": "a94f1c19e01b0270ae9b6890"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "aa3cf228e097c6fe4231f4f5"
+    },
+    "titulo": "El ascenso de la galaxia",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "de3a0c7e0125fd478ab7a4e9"
+    },
+    "anio": 2000,
+    "id_plataforma": {
+      "$oid": "a94f1c19e01b0270ae9b6890"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8f3e5a21e1f68555496e2e9e"
+    },
+    "titulo": "Perdidos en el pasado",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "7c8a34189d58f6c1a1459b60"
+    },
+    "anio": 1990,
+    "id_plataforma": {
+      "$oid": "a1c3d87fae3c55c6b9a1cd67"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1d762af8a223c017c0fa9d5f"
+    },
+    "titulo": "Luz sobre la montaña",
+    "id_formato": {
+      "$oid": "11d4a6b6e2cba7f3a7e4e0bd"
+    },
+    "id_genero": {
+      "$oid": "ccf9e3f7bd7eabbbcd7b91a2"
+    },
+    "anio": 2022,
+    "id_plataforma": {
+      "$oid": "e01cf750b417bb8886a4b330"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b14c3e6d4b1b96130c11d6c3"
+    },
+    "titulo": "El último el bosque",
+    "id_formato": {
+      "$oid": "9b2cd08f3e75b2da14fc097a"
+    },
+    "id_genero": {
+      "$oid": "7c8a34189d58f6c1a1459b60"
